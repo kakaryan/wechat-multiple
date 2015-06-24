@@ -1,1 +1,1 @@
-# wechat-multiple
+# 微信消息分发器
